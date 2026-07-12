@@ -1,0 +1,5 @@
+"pandas"
+"numpy"
+"groq"
+
+https://gemini.google.com/app/7f4d77e3e862e076
