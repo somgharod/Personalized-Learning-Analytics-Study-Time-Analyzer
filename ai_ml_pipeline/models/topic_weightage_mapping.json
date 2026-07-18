@@ -1,0 +1,42 @@
+{
+  "DATA STRUCTURES": {
+    "core_failure_insights": "Students frequently struggle with edge-case memory handling, pointer rewires in raw code blocks, and calculating time complexity boundaries.",
+    "high_yield_scoring_topics": [
+      "Arrays & Singly Linked Lists Operations",
+      "Binary Search Tree Traversals",
+      "Hashing Buckets & Collision Management"
+    ],
+    "tactical_advice": "Draw out box-and-pointer memory diagrams by hand on paper before attempting to translate data structure mutations into code lines.",
+    "recommended_weekly_remedial_hours": 6.0
+  },
+  "SYSTEM ARCHITECTURE": {
+    "core_failure_insights": "Difficulty visualizing abstract physical data pipelines, assembly registers, and internal CPU scheduling intervals.",
+    "high_yield_scoring_topics": [
+      "Instruction Pipeline Hazards & Branching",
+      "Cache Memory Mapping (Direct vs Set-Associative)",
+      "ALU Integer Hardware Addition Schemes"
+    ],
+    "tactical_advice": "Focus heavily on solving previous 5-year exam numerical problems relating to cache miss-rate calculations.",
+    "recommended_weekly_remedial_hours": 5.5
+  },
+  "DISCRETE MATHEMATICS": {
+    "core_failure_insights": "The leap from traditional calculus numbers to formal abstract logic proofs and combinatorics structures often catches students off guard.",
+    "high_yield_scoring_topics": [
+      "Propositional Logic Truth Tables",
+      "Matrix Relations & Direct Graph Layouts",
+      "Permutations & Combinations Pigeonhole Principle"
+    ],
+    "tactical_advice": "Master the fundamental templates for Direct Proofs and Mathematical Induction; they are reliable sources of exam marks.",
+    "recommended_weekly_remedial_hours": 6.5
+  },
+  "DATABASE MANAGEMENT SYSTEMS": {
+    "core_failure_insights": "Misunderstanding structural relational dependencies, causing incorrect schema normalization and broken transaction constraints.",
+    "high_yield_scoring_topics": [
+      "Entity-Relationship (ER) Diagram Translations",
+      "1NF, 2NF, and 3NF Normalization Mechanics",
+      "SQL Joins & Group-By Aggregate Syntax"
+    ],
+    "tactical_advice": "Practice breaking down multi-table relational word problems into nested SQL queries step-by-step.",
+    "recommended_weekly_remedial_hours": 4.5
+  }
+}
